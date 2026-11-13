@@ -1,0 +1,6 @@
+{
+  "name": "INDIAN BIKE RIDER 3D",
+  "description": "Open-world 3D Indian motorcycle driving game with 8 bikes, traffic, stunts, missions, third-person rider, and interconnected Indian landscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
